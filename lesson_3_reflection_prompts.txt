@@ -1,1 +1,3 @@
 I would use remote repository to share project with other.
+
+Automatic pull would interfere with my local changes.
